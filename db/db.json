@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "id": "9479",
+      "name": "Jahan",
+      "email": "jahan@gmail.com",
+      "password": "jahan100"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "KFC",
+      "contact": "09613-889959",
+      "address": " 12/A, 6/57, Pallabi, Mirpur, Near Gold wing niharika Mirpur-12 Dhaka 1216"
+    },
+    {
+      "id": "2",
+      "name": "Pizza Hut",
+      "contact": "029016338",
+      "address": "Plot No, 132 Rd No. 2, Mirpur-11.5, Near Gold wing niharika Mirpur-12 Dhaka 1216"
+    },
+    {
+      "id": "3",
+      "name": "Burger King",
+      "contact": "01700-704449",
+      "address": "Sagufta Tower, Holding- 45, Road- 7, Mirpur- 12, Dhaka"
+    },
+    {
+      "id": "4e9b",
+      "name": "Domino's Pizza",
+      "contact": "01958-136125",
+      "address": "12/A, 6/57, Pallabi, Mirpur, Near Gold wing niharika Mirpur-12 Dhaka"
+    },
+    {
+      "id": "8bdc",
+      "name": "Kacchi Bhai",
+      "contact": "01713-698944",
+      "address": " House No: 2/A, Section- 6, Block- A, Road No: 4, Dhaka 1216"
+    }
+  ]
+}
